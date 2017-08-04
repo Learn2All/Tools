@@ -1,0 +1,14 @@
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Code Repository.exe.config
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Code Repository.exe
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Code Repository.pdb
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code Repository.csprojResolveAssemblyReference.cache
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code_Repository.Properties.Resources.resources
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code Repository.csproj.GenerateResource.Cache
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code Repository.exe
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code Repository.pdb
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code_Repository.frmCdeRep.resources
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Tools.dll
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Tools.pdb
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\bin\Debug\Tools.xml
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code_Repository.DBData.resources
+C:\Users\TshepoN\Documents\Visual Studio 2013\Projects\Ideas\Code Repository\obj\Debug\Code_Repository.outlook.resources
